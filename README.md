@@ -1,2 +1,3 @@
 "# ShowMyRepo" 
-Natchanon Auewetchanichkul 6238058221 was here.
+Natchanon Auekul 6238058221 was here.
+A
