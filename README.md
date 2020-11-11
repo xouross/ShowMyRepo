@@ -1,2 +1,9 @@
-"# 1234MyRepo"
-Natch1234 Auewetchanichkul 6238058221 was here.
+<<<<<<< HEAD
+"# ShowMyRepo"
+Natchanon Auekul 6238058221 was here.
+A
+=======
+"# ShowMyRepo" 
+Natchanon Auekul 6238058221 was here.
+A
+>>>>>>> main
